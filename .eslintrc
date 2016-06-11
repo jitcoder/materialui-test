@@ -1,0 +1,11 @@
+{
+    "rules":{
+        "comma-dangle": 0,
+        "import/no-unresolved":0
+    },
+    "extends": "airbnb",
+    "installedESLint": true,
+    "plugins": [
+        "react"
+    ]
+}
